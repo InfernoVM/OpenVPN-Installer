@@ -38,7 +38,7 @@ Easily set up a secure OpenVPN server on **Debian, Ubuntu, Fedora, CentOS, Arch 
 ### Step 1: Download the Script
 
 ```bash
-curl -O https://raw.githubusercontent.com/AnonVM/OpenVPN-Installer/main/setup.sh
+curl -O https://raw.githubusercontent.com/InfernoVM/OpenVPN-Installer/main/setup.sh
 chmod +x setup.sh
 ```
 
