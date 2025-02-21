@@ -126,7 +126,7 @@ OpenVPN defaults to **strong encryption settings**, further enhanced by this scr
 ## 🤔 FAQ
 
 ### 🔹 Recommended VPS Providers
-- **[AnonVM](https://anonvm.wtf)** – Privacy-focused secure hosting.
+- **[InfernoVM](https://infernovm.net)**
 
 ### 🔹 Recommended OpenVPN Clients
 
