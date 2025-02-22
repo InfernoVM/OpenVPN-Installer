@@ -1,5 +1,11 @@
 # 🔒 OpenVPN Install Script – Fast, Secure, and Easy VPN Deployment
 
+<p align="center">
+  <a href="https://infernovm.net">
+    <img src="https://i.imgur.com/l5cRB9s.gif" alt="InfernoVM">
+  </a>
+</p>
+
 Easily set up a secure OpenVPN server on **Debian, Ubuntu, Fedora, CentOS, Arch Linux, Oracle Linux, Rocky Linux, and AlmaLinux** with this automated script.
 
 ---
